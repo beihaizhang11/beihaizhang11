@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Zhang Bohan.</h2>
 
-<img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Arturs Smirnovs">
+![alt 属性文本](bczgtihub.jpg)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
