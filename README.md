@@ -25,7 +25,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![IDEA](https://img.shields.io/badge/-IDEA-333333?style=flat&logo=Intelij-idea)
+  ![IDEA](https://img.shields.io/badge/-IDEA-333333?style=flat&logo=idea)
+  ![IDEA](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
