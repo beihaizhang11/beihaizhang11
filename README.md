@@ -4,11 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Software Engineering at Beijing University of Technology and University College Dublin.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -39,3 +36,7 @@
 <a href="https://www.zhangbh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-zhangbh.com-blue"></a>
 <a href="mailto:beihaizhang11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-beihaizhang11@gmail.com-red&logo=gmail"></a>
 </p>
+
+> The only way of discovering the limits of the possible is to venture a little way past them into the impossible.
+
+— Arthur C. Clarke
