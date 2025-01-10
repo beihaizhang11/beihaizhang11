@@ -36,6 +36,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.zhangbh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:beihaizhang11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.zhangbh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-zhangbh.com-blue"></a>
+<a href="mailto:beihaizhang11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-beihaizhang11@gmail.com-red&logo=gmail"></a>
 </p>
